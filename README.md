@@ -56,7 +56,7 @@ Link to the video Demo  : https://youtu.be/dhafphDCSQM
 
 
 # Credits 
-Thank you Mohit Dhankher and Louis Delia Tech Bootcamp Coding
+Thank you Louis Delia Tech Bootcamp Coding
 
 # References 
 
