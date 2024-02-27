@@ -3,7 +3,7 @@
 
 # Description 
 
-This is a simple buliding the  back end for an e-commerce site. Start code has been prrovided. THe goal is to configure a working with Express.js API to use Sequelize to interact with Mysql database.
+This is a simple buliding the  back end for an e-commerce site. Start code has been prrovided. The goal is to configure a working with Express.js API to use Sequelize to interact with Mysql database.
 
 # Table of Contents
 - Installation
@@ -38,7 +38,9 @@ npm start
 
 Testing of the code was completed in Insomnia
 
-Link to the video Demo  <video controls src="Assets/vdo/Demo Insomnia api categories.mp4" title="Title"></video>
+```
+Link to the video Demo  : https://youtu.be/dhafphDCSQM
+```
 
 ## Features
 * Express.js
